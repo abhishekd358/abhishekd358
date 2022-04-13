@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi.gif" width=39 height=39/> I'm Abhishek</h1>
-<h3 align="center">🚀 Enthusiast in Software Development | Open Source ♥ | Coding | Web Development | Graphics Deaign | Entrepreneurship 🚀</h3>
+<h3 align="center">🚀 Enthusiast in Software Development | Open Source ♥ | Coding | Web Development | Graphics Design | Entrepreneurship 🚀</h3>
 
 <h3 > 👨🏻‍💻 <u>About Me</u> </h3>
 
