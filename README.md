@@ -1,88 +1,129 @@
-<h1 align="center">Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi.gif" width=39 height=39/> I'm Abhishek</h1>
-<h3 align="center">🚀 Software Development | Web Development | Open Source | Data analyst  🚀</h3>
+<div align="center">
+<p align="center">
+  <img src="https://media.tenor.com/ru60QapwQ3IAAAAi/hello-hey.gif" width="200" height="200"/>
+</p>
 
-<h3 > 👨🏻‍💻 <u>About Me</u> </h3>
+# 👋 I'm Abhishek Dhaware
+### 🚀 Full Stack Developer | Web Developer | Data Analyst
 
-- Graduated in Computer Engineering (2024)
-- I specialize in building responsive, secure, and high-performance applications with the MERN stack
-- x-data analyst
-- I have strong knowledge of Databases, SDLC, Data Structures & Algorithms, and Software Testing.
-
-<div>
-  <h3> 💻 Languages and Tools </h3>
-
-<h4> Programming Languages </h4>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<h4> Frontend </h4>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;MERN+Stack+Developer;Open+for+Contribution;Always+Learning+%26+Improving;Writing+Clean+%26+Efficient+Code;" />
 
 
-<h4> Backend </h4>
+</div>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![REST API](https://img.shields.io/badge/RESET_API-ff1709?style=for-the-badge)
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h4> Deployment & DevOps </h4>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJud2lmdW9tcHlrY3ByY3JuNHgzOGpweWs2ajR0d2s5MWNwMDUxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TxGKXohg7rO5b0Ad7y/giphy.gif" width="70" alt="penguin"/> About Me
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+🎓 **Computer Engineering Graduate (2024)** with a passion for building innovative solutions
 
+💼 **Full Stack Developer** specializing in MERN stack with a focus on performance and scalability
 
+📊 **Data Analyst** with hands-on experience in data visualization and data analytics
 
+📚 **Academic** have Strong foundation on computer fundamentals DSA, Networking and Operating System
 
-<h4> Data Analytics/Machine Learning </h4>
+<div align="center">
+  
+### 💡 Open to: <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdveGY0NjdmejF3c2pjYW16N3R5OWJmajBnd2IzMmt6Y2pxMGZzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7Z5VyUragzTIb0HAjd/giphy.gif" width="70" alt="penguin"/>
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Tableau](https://img.shields.io/badge/Tableau-%23d82424.svg?style=for-the-badge&logo=tableau&logoColor=white)
-
-<!-- <h4> Other Skills </h4>
-
-![Wordpress](https://img.shields.io/badge/Wordpress-47013?style=for-the-badge&logo=Wordpress&logoColor=#FF61F6)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-470137?style=for-the-badge&logo=Katalon%20Studio&logoColor=#FF61F6) -->
-<h4> Tools </h4>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF.svg?style=for-the-badge&logo=Thunderbird&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FFA500.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div> 
+- Full-time opportunities
+- Freelance projects  
+- Interesting collaborations
+- Open source contributions
 
 
-### Connect with Me   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" alt="hand shaking img" width=55 height=40/>
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/contact-abhishek-d) 👨🏻‍💻
- - Shoot Me an [Email](mailto:abhidhaware1234@gmail.com) 💌
- - [GitHub Profile Summary](https://github.com/abhishekd358/abhishekd358)
+</div>
 
 
-![](https://komarev.com/ghpvc/?username=abhishekd358&color=blue)
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21zNzI3eTZsZW84anI1amhvcHducmpsZ3c4azExMXNqN3h4bWM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5zwEM1BIDYGQTv4306/giphy.gif" width="70" alt="penguin"/> MY TOOLBOX
+
+<!-- Tech Stack Visual -->
+<div align="center">
+
+### Languages I Speak (to Computers)
+<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+
+### Frontend Arsenal
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,wordpress&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres,docker&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,xd&theme=dark" />
+
+### Data Analytics
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/
+Matplotlib-0c143?style=for-the-badge&logo=
+Matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-E97627?style=for-the-badge&logo=Excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Freeplane-F7931E?style=for-the-badge&logo=Freeplane&logoColor=white" />
+
+</div>
+
+<br>
+
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE2NWFvdzRod3dkaTUzZXBqaHZmcm1yYmgyNjZzdWV6Zmw5bnVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kcoK1gOdUGyMWMTgf4/giphy.gif" width="70" alt="penguin"/> GitHub Statistics
+
+<div align="center">
+  
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekd358&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekd358&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekd358&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+
+
+</div>
+
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cwY2RkYmUwZG80NjV5ZjF2cW56MzZ4dnh4bzNoN2w3ZnlodmRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3DEvquqKktDunerF3/giphy.gif" width="70" alt="penguin"/> GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=abhishekd358&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJnODNhdGNtbmZkbGZzNXNmNm9vd2VqNWc4bGRwMTZ1NGMwdjNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0zqd04aw0cPQlpnfJz/giphy.gif" width="70" alt="penguin"/> Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-xyz)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhidhaware1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-c206af?style=for-the-badge&logo=vercel&logoColor=white)](https://d-abhishek.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=xyz&color=260085&style=for-the-badge)
+
+<br>
+
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### Show some <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR2aHNzOG44bnRycWo0bGRoYXZ6MXk5ODB6MDk1b3p4ZTI5enBzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpDt91TIckKHTwN6vW/giphy.gif" width="60"  alt="penguin"/> by starring repositories you find interesting!
+
+**Thank you for reading me through! Let's build something amazing together 🚀**
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE3ZGQ1MTFnY3NpZmp2ZHQydGVqZW5sdnBkeGJjdmx3Ynh2NW03dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IG5nJivlKeDs6dlxqN/giphy.gif" width="300" alt="penguin"/>
+</div>
