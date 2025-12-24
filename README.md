@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://media.tenor.com/ru60QapwQ3IAAAAi/hello-hey.gif" width="200" height="200"/>
+  <img src="snow.svg" width="100%" />
 </p>
 
 # 👋 I'm Abhishek Dhaware
