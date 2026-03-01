@@ -16,13 +16,13 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJud2lmdW9tcHlrY3ByY3JuNHgzOGpweWs2ajR0d2s5MWNwMDUxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TxGKXohg7rO5b0Ad7y/giphy.gif" width="70" alt="penguin"/> About Me
 
-🎓 **Computer Engineering Graduate (2024)** with a passion for building innovative solutions
+🎓 **Computer Engineering Graduate** with a strong passion for building practical, scalable, and real-world software solutions
 
-💼 **Full Stack Developer** specializing in MERN stack with a focus on performance and scalability
+💼 **Full Stack Developer (MERN Stack)** experienced in developing responsive frontend applications and designing secure, performance-oriented backend architectures
 
-📊 **Data Analyst** with hands-on experience in data visualization and data analytics
+📊 **Data Analytics Background** with hands-on experience in data visualization and analytical problem-solving, now primarily focused on full stack engineering and system design
 
-📚 **Academic** have Strong foundation on computer fundamentals DSA, Networking and Operating System
+📚 Strong academic foundation in **Data Structures & Algorithms, Operating Systems, Networking, and Database Systems**
 
 <div align="center">
   
@@ -33,6 +33,149 @@
 - Interesting collaborations
 - Open source contributions
 
+
+</div>
+<!-------------------------------------------------------Notes -------------------------------------------------->
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ4cHFhYnJ5amJobWw0czE5andyaDdwNHo2bG1kdmhxb2t1cTl3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PBGX5BxVv1lZLX1qeV/giphy.gif" width="70" alt="penguin"/> Notes
+
+<div align="center">
+
+<table>
+<tr>
+<th>Topic</th>
+<th>Handwritten Notes</th>
+<th>GitHub Notes</th>
+</tr>
+
+<tr>
+<td>Operating System</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/1.Operating%20System">Open</a></td>
+</tr>
+
+<tr>
+<td>Fundamentals of Node</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/2.Fundamental%20of%20Node">Open</a></td>
+</tr>
+
+<tr>
+<td>Buffers in Node</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/3.Buffers%20In%20Node">Open</a></td>
+</tr>
+
+<tr>
+<td>Streams</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/4.Streams">Open</a></td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/5.Networking">Open</a></td>
+</tr>
+
+<tr>
+<td>Networking In Node Js</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/6.Networking%20In%20Node%20Js">Open</a></td>
+</tr>
+
+<tr>
+<td>Express</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/7.Express">Open</a></td>
+</tr>
+
+<tr>
+<td>MongoDB</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/8.MongoDB">Open</a></td>
+</tr>
+
+<tr>
+<td>MVC (Mongoose)</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/9.MVC(mongoose)">Open</a></td>
+</tr>
+
+<tr>
+<td>Auth (OTP / Stateful vs Stateless)</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/10.Auth">Open</a></td>
+</tr>
+
+<tr>
+<td>Security</td>
+<td><a href="#">View</a></td>
+<td><a href="https://github.com/abhishekd358/WebDev/tree/master/11.Security">Open</a></td>
+</tr>
+
+<tr>
+<td>Redis (Caching & Session)</td>
+<td><a href="#">View</a></td>
+<td><a href="#">Open</a></td>
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+<!-------------------------------------------------------Project -------------------------------------------------->
+
+<!-- Visual Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ3bm52MWZvNHZuYzd3N3poYjVtdnlsZmlxajhsZGVlOGRlNXplZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0LXeZc8caiIvYr0dbC/giphy.gif" width="70" alt="penguin"/> Projects
+
+<div align="center">
+
+<table>
+<tr>
+<th>Project</th>
+<th>Live</th>
+<th>Repository</th>
+</tr>
+
+<tr>
+<td><strong>🩺 AptDox</strong></td>
+<td><a href="https://aptdox.vercel.app/">Live Demo</a></td>
+<td><a href="https://github.com/abhishekd358/Project/tree/main/MERN/AptDox">GitHub</a></td>
+</tr>
+
+<tr>
+<td><strong>🖼 Artifex Ai</strong></td>
+<td><a href="https://artifex-frontend.vercel.app/">Live Demo</a></td>
+<td><a href="https://github.com/abhishekd358/Project/tree/main/SaaS/Artifex">GitHub</a></td>
+</tr>
+
+<tr>
+<td><strong>📱 Phonebook</strong></td>
+<td><a href="https://phonebook-psi-five.vercel.app/">Live Demo</a></td>
+<td><a href="https://github.com/abhishekd358/Project/tree/main/MERN/Phonebook">GitHub</a></td>
+</tr>
+
+<tr>
+<td><strong>🛒 Gurumauli Sport Shop</strong></td>
+<td><a href="https://gurumaulisports.com/">Live</a></td>
+<td>Wordpress</td>
+</tr>
+
+</table>
+
+<br>
+
+<a href="https://github.com/abhishekd358/Project/tree/main">
+  <img src="https://img.shields.io/badge/See%20All%20Projects-0A66C2?style=for-the-badge">
+</a>
 
 </div>
 
@@ -86,17 +229,6 @@ Matplotlib&logoColor=white" />
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekd358&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 
-
-</div>
-
-<!-- Visual Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cwY2RkYmUwZG80NjV5ZjF2cW56MzZ4dnh4bzNoN2w3ZnlodmRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3DEvquqKktDunerF3/giphy.gif" width="70" alt="penguin"/> GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=abhishekd358&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
