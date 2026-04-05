@@ -52,37 +52,37 @@
 
 <tr>
 <td>Operating System</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/1T7naBOcMtiZbZ-DmgLTkpoGtFNzh1CGz/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/1.Operating%20System">Open</a></td>
 </tr>
 
 <tr>
 <td>Fundamentals of Node</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/1pjJoYJvJzl8dDZc5zIbbrQnxibgc9G9C/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/2.Fundamental%20of%20Node">Open</a></td>
 </tr>
 
 <tr>
 <td>Buffers in Node</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/1uu2zLiTfk9tSRnTVNNKenF4Fl_9m-sE5/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/3.Buffers%20In%20Node">Open</a></td>
 </tr>
 
 <tr>
 <td>Streams</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/11NSbxR7KipU64CG-CRUlSaV5vOQKlITQ/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/4.Streams">Open</a></td>
 </tr>
 
 <tr>
 <td>Networking</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/1_kQJ0RPygSVqI9nw5Ckd9dUZgeG1qXs3/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/5.Networking">Open</a></td>
 </tr>
 
 <tr>
 <td>Networking In Node Js</td>
-<td><a href="#">View</a></td>
+<td><a href="https://drive.google.com/file/d/1Iz8t1ahKX7QYNPAtQ0YRXnfzjpJkjVtw/view">View</a></td>
 <td><a href="https://github.com/abhishekd358/WebDev/tree/master/6.Networking%20In%20Node%20Js">Open</a></td>
 </tr>
 
